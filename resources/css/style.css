@@ -12,3 +12,32 @@ h1 {
   text-align: center;
 
 }
+
+.download-link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.video {
+  color: white;
+}
+
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+footer {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: right;
+}
